@@ -89,3 +89,21 @@
   font-size: 1.2em;
   margin: 50px;
 }
+
+/*invite section*/
+.invite{
+  display: block;
+  text-align: center;
+  background-image: linear-gradient(pink,white);
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: 110px;
+  border-radius: 5px;
+}
+.btn{
+  padding: 10px 20px 10px 20px;
+  color: white;
+  background-color: rgb(244, 64, 33);
+  border: none;
+  border-radius: 5px;
+}
