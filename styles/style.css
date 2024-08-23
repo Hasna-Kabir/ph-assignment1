@@ -1,6 +1,9 @@
-body{
+.poppins-text{
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-style: normal;
+}
+.serif-text{
+  font-family: "DM Serif Text", serif;
   font-style: normal;
 }
 .banner{
@@ -27,12 +30,12 @@ body{
   margin: 0px;
 }
 .ban-first{
-  font-size: 35px;
+  font-size: 1.6em;
   font-weight: 300;
   padding-top: 115px;
 }
 .ban-second{
-  font-size: 80px;
+  font-size: 4.5em;
   font-weight: 500;
 }
 .ban-second2{
