@@ -41,3 +41,9 @@
 .ban-second2{
   padding-bottom: 115px;
 }
+/*off section*/
+.off-section{
+  display: block;
+  text-align: center;
+  margin-top: 130px;
+}
