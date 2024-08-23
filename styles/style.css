@@ -6,6 +6,9 @@
   font-family: "DM Serif Text", serif;
   font-style: normal;
 }
+.red{
+  color: rgb(244, 64, 33);
+}
 .banner{
   background-image: url('../resources/Banner\ Image.png');
   background-repeat: no-repeat;
@@ -46,4 +49,43 @@
   display: block;
   text-align: center;
   margin-top: 130px;
+  margin-bottom: 100px;
+}
+/*welcome section*/
+.welcome{
+  background-image: url('../resources/Vectorrr.png');
+  background-repeat: no-repeat;
+  margin: 30px 110px;
+  background-position: top;
+  background-size: 100% 100%;
+}
+.welcome-bg{
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.578) ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-contents{
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.welcome-text{
+  width: 65%;
+  text-align: left;
+  margin: 100px 0 100px 100px;
+  gap: 20px;
+}
+.welcome-img{
+  margin: 30px 100px 30px 25px;
+}
+.w-a{
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  margin: 50px;
 }
