@@ -3,3 +3,38 @@ body{
   font-weight: 400;
   font-style: normal;
 }
+.banner{
+  background-image: url('../resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  margin: 30px 110px;
+  background-position: top;
+  background-size: 100% 100%;
+}
+.banner-bg{
+  color: white;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.578) ;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner-contents{
+  margin: auto;
+}
+.banner-titles{
+  padding: 0px;
+  margin: 0px;
+}
+.ban-first{
+  font-size: 35px;
+  font-weight: 300;
+  padding-top: 115px;
+}
+.ban-second{
+  font-size: 80px;
+  font-weight: 500;
+}
+.ban-second2{
+  padding-bottom: 115px;
+}
