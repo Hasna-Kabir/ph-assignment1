@@ -107,3 +107,17 @@
   border: none;
   border-radius: 5px;
 }
+
+/*offer section*/
+.offer{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30px 110px;
+  gap: 20px;
+}
+.offer-img{
+  border: 10px red solid;
+  border-radius: 50%;
+  padding: 20px;
+}
