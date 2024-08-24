@@ -121,3 +121,26 @@
   border-radius: 50%;
   padding: 20px;
 }
+
+/*Sale section*/
+.sale-section{
+  margin: 40px 110px;
+}
+.sale-text{
+  text-align: center;
+}
+.sale-img{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url('../resources/Rectangle\ 2.png'), url('../resources/Rectangle\ 1.png');
+  background-repeat: no-repeat;
+  background-position: bottom, right top;
+}
+.img-s1{
+  padding: 30px 20px 30px 50px;
+}
+.img-s2{
+  display: flex;
+  justify-content: left;
+}
