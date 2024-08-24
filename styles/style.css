@@ -131,16 +131,22 @@
 }
 .sale-img{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  
   background-image: url('../resources/Rectangle\ 2.png'), url('../resources/Rectangle\ 1.png');
   background-repeat: no-repeat;
   background-position: bottom, right top;
+  height: 660px;
 }
 .img-s1{
   padding: 30px 20px 30px 50px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .img-s2{
   display: flex;
-  justify-content: left;
+  width: 50%;
+  margin-top: 120px;
+  margin-right: 15px;
 }
