@@ -155,7 +155,7 @@
 
 /*portfolio*/
 .portfolio{
-  margin: 30px 110px 110px 30px;
+  margin: 30px 110px 110px 110px;
 }
 .portfolio-img{
   display: block;
@@ -179,16 +179,21 @@
   display: flex;
   gap: 0;
   justify-content: center;
+  margin-top: 30px;
 }
 .gmail{
   border-radius: 25px 0 0 25px;
   padding: 20px;
   width: 35%;
+  border: 0;
 }
 .submit{
   border-radius: 0 25px 25px 0;
-  padding: 20px 30px 20px 30px;
+  padding: 20px 50px 20px 50px;
   width: 10;
+  border: 0;
+  background-color: red;
+  color: white;
 }
 
 /*footer*/
@@ -220,4 +225,7 @@
 .f-row3 a{
   text-decoration: none;
   color: white;
+}
+.f-rp12{
+  padding-right: 80px;
 }
