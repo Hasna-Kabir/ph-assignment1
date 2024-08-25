@@ -7,12 +7,12 @@
   font-style: normal;
 }
 .red{
-  color: rgb(244, 64, 33);
+  color: red;
 }
 .banner{
   background-image: url('../resources/Banner\ Image.png');
   background-repeat: no-repeat;
-  margin: 30px 110px;
+  margin: 10vh 8vw 10vh 8vw;
   background-position: top;
   background-size: 100% 100%;
 }
@@ -20,7 +20,7 @@
   color: white;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.578) ;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,29 +33,29 @@
   margin: 0px;
 }
 .ban-first{
-  font-size: 1.6em;
+  font-size: 1.6rem;
   font-weight: 300;
-  padding-top: 115px;
+  padding-top: 7.1875rem;
 }
 .ban-second{
-  font-size: 4.5em;
+  font-size: 4.5rem;
   font-weight: 500;
 }
 .ban-second2{
-  padding-bottom: 115px;
+  padding-bottom: 7.1875rem;
 }
 /*off section*/
 .off-section{
   display: block;
   text-align: center;
-  margin-top: 130px;
-  margin-bottom: 100px;
+  margin-top: 8.125rem;
+  margin-bottom: 6.25rem;
 }
 /*welcome section*/
 .welcome{
   background-image: url('../resources/Vectorrr.png');
   background-repeat: no-repeat;
-  margin: 30px 110px;
+  margin: 1.875rem 6.875rem;
   background-position: top;
   background-size: 100% 100%;
 }
@@ -63,7 +63,7 @@
   color: white;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.578) ;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -77,17 +77,17 @@
 .welcome-text{
   width: 65%;
   text-align: left;
-  margin: 100px 0 100px 100px;
-  gap: 20px;
+  margin: 6.25rem 0 6.25rem 6.25rem;
+  gap: 1.25rem;
 }
 .welcome-img{
-  margin: 30px 100px 30px 25px;
+  margin: 1.875rem 6.25rem 1.875rem 1.5625rem;
 }
 .w-a{
   text-decoration: none;
   color: white;
-  font-size: 1.2em;
-  margin: 50px;
+  font-size: 1.2rem;
+  margin: 3.125rem;
 }
 
 /*invite section*/
@@ -95,17 +95,17 @@
   display: block;
   text-align: center;
   background-image: linear-gradient(pink,white);
-  padding-top: 100px;
-  padding-bottom: 100px;
-  margin: 110px;
-  border-radius: 5px;
+  padding-top: 6.25rem;
+  padding-bottom: 6.25rem;
+  margin: 6.875rem;
+  border-radius: 0.3125rem;
 }
 .btn{
-  padding: 10px 20px 10px 20px;
+  padding: 0.625rem 1.25rem 0.625rem 1.25rem;
   color: white;
-  background-color: rgb(244, 64, 33);
+  background-color: red;
   border: none;
-  border-radius: 5px;
+  border-radius: 0.3125rem;
 }
 
 /*offer section*/
@@ -113,34 +113,34 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin: 30px 110px;
-  gap: 60px;
+  margin: 1.875rem 6.875rem;
+  gap: 3.75rem;
 }
 .offer-img{
-  border: 10px red solid;
+  border: 0.625rem red solid;
   border-radius: 50%;
-  padding: 20px;
+  padding: 1.25rem;
   max-width: 80%;
 }
 
 /*Sale section*/
 .sale-section{
-  margin: 80px 110px;
+  margin: 5rem 6.875rem;
 }
 .sale-text{
   text-align: center;
 }
 .sale-img{
   display: flex;
-  margin-top: 60px;
+  margin-top: 3.75rem;
   
   background-image: url('../resources/Rectangle\ 2.png'), url('../resources/Rectangle\ 1.png');
   background-repeat: no-repeat;
   background-position: bottom, right top;
-  height: 660px;
+  height: 41.25rem;
 }
 .img-s1{
-  padding: 30px 20px 30px 50px;
+  padding: 1.875rem 1.25rem 1.875rem 3.125rem;
   width: 50%;
   display: flex;
   align-items: center;
@@ -149,8 +149,9 @@
 .img-s2{
   display: flex;
   width: 50%;
-  margin-top: 120px;
-  margin-right: 15px;
+  height: 70%;
+  margin-top: 7.5rem;
+  margin-right: 1.5625rem;
 }
 
 /*portfolio*/
@@ -171,26 +172,26 @@
 .subscribe{
   text-align: center;
   background-color: rgb(250, 232, 232);
-  margin: 10px 110px 110px 110px;
+  margin: 0.625rem 6.875rem 6.875rem 6.875rem;
   padding: 10%;
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 .sub-btn{
   display: flex;
   gap: 0;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 1.875rem;
 }
 .gmail{
-  border-radius: 25px 0 0 25px;
-  padding: 20px;
+  border-radius: 1.5625rem 0 0 1.5625rem;
+  padding: 1.25rem;
   width: 35%;
   border: 0;
 }
 .submit{
-  border-radius: 0 25px 25px 0;
-  padding: 20px 50px 20px 50px;
-  width: 10;
+  border-radius: 0 1.5625rem 1.5625rem 0;
+  padding: 1.25rem 3.125rem 1.25rem 3.125rem;
+  width: 20%;
   border: 0;
   background-color: red;
   color: white;
@@ -198,7 +199,7 @@
 
 /*footer*/
 .foot{
-  padding: 110px;
+  padding: 6.875rem;
   color: white;
   background-color: rgb(1, 1, 20);
 }
@@ -213,9 +214,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
-  padding: 20px 0;
-  border-bottom: 1px rgba(27, 27, 44, 0.628) solid;
+  gap: 0.625rem;
+  padding: 1.25rem 0;
+  border-bottom: 0.0625rem rgba(27, 27, 44, 0.628) solid;
 }
 .f-row3{
   display: flex;
@@ -227,5 +228,5 @@
   color: white;
 }
 .f-rp12{
-  padding-right: 80px;
+  padding-right: 5rem;
 }
