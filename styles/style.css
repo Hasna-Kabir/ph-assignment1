@@ -33,16 +33,16 @@
   margin: 0px;
 }
 .ban-first{
-  font-size: 1.6rem;
+  font-size: 1.6vw;
   font-weight: 300;
-  padding-top: 7.1875rem;
+  padding-top: 7.1875vw;
 }
 .ban-second{
-  font-size: 4.5rem;
+  font-size: 4.5vw;
   font-weight: 500;
 }
 .ban-second2{
-  padding-bottom: 7.1875rem;
+  padding-bottom: 7.1875vw;
 }
 /*off section*/
 .off-section{
